@@ -43,3 +43,5 @@ print(type('-2.0'))
 
 
 input("Enter your age: ")
+
+"X".strip
